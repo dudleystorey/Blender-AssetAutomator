@@ -15,7 +15,7 @@ baseZ = base.location[2]
 rows = 0
 maxCols = 17
 
-match_str = "AssetAutomater"
+match_str = "-AssetAutomator"
 materials = []
 mats = bpy.data.materials
 
